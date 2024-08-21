@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-green {
+    background-color: #BEC6A0;
+}
+
+.text-grey {
+    color: #606676;
+}
